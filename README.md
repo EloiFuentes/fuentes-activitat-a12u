@@ -55,15 +55,6 @@ Fitxer que evita que certs arxius es controlin amb Git.
 
 ---
 
-##  Passos seguits
-
-1. Crear repositori a GitHub (`fuentes-activitat-a12u`).
-2. Convidar al col·laborador `joanpardogine`.
-3. Clonar el repositori a `/c/projectes`.
-4. Crear fitxer `.gitignore` i afegir exclusions comunes.
-5. Crear i redactar `README.md` amb Markdown avançat.
-6. Fer commits clars en cada pas.
-7. Comprovar que tot estigui pujat correctament a GitHub.
 
 ---
 
